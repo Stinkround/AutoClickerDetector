@@ -1,0 +1,8 @@
+max_cps: 20
+min_std_dev: 3.0
+min_clicks: 15
+max_consecutive: 8
+tolerance: 1.0
+violation_threshold: 2
+time_window: 10000
+ban_message: "Exploiting - Autoclicking"
